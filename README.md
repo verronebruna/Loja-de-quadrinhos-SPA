@@ -1,6 +1,15 @@
 # BEM VINDE A LOJA DE QUADRINHOS!
 
-## Descrição
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **LOJA DE QUADRINHOS**
+| :label: Tecnologias | html, css, javascript
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2017/06/comics.jpg?fit=1024%2C585&ssl=1#vitrinedev)
+
+## Detalhes do projeto
 Este repositório contém uma Single Page Application (SPA) que utiliza a API da Marvel para criar uma loja virtual de quadrinhos. A aplicação permite que os usuários naveguem, pesquisem e comprem quadrinhos da vasta coleção da Marvel.
 
 A Marvel API é uma API fornecida pela Marvel que oferece acesso a informações sobre personagens, quadrinhos, séries e muito mais. A API fornece dados atualizados e detalhados diretamente da Marvel para que possam ser exibidos e utilizados na aplicação.
