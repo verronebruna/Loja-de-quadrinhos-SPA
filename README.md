@@ -1,12 +1,10 @@
 # BEM VINDE A LOJA DE QUADRINHOS!
 
-
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
+| :placard: Vitrine.Dev | verronebruna |
+| -  | - |
 | :sparkles: Nome        | **LOJA DE QUADRINHOS**
 | :label: Tecnologias | html, css, javascript
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2017/06/comics.jpg?fit=1024%2C585&ssl=1#vitrinedev)
 
 ## Detalhes do projeto
